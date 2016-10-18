@@ -9,7 +9,7 @@ The implementation of CNN uses the trimmed version of DeepLearnToolbox by [R. B.
 * Matlab
 
 ## CNN in the demo
-<img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/CNN.png" width="1000">
+<img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/CNN.png">
 
 ## Run demos
 
