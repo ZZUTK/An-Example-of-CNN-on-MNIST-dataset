@@ -23,7 +23,7 @@ Note that only 1 epoch will be performs. If you want to run more epochs, please 
 Run the demo for 200 epochs, the classification accuracy will be over 1%.
 
 ### Training accuracy
-<img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/train_accu.png", width="400">
+<img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/train_accu.png", width="400", title="TTT">
 
 ### Testing accuracy
 <img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/test_accu.png", width="400">
