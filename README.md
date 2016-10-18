@@ -10,3 +10,7 @@ The implementation of CNN uses the trimmed version of DeepLearnToolbox by [R. B.
 
 ## Run demos
 
+```
+>> demo_CNN_MNIST
+```
+
