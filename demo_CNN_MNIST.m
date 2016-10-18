@@ -59,7 +59,7 @@ batch_size = 50;
 % number of epochs: iterations of training on the whole dataset
 % 1 epoch gets around 11% error rate, and 100 epochs gets around 1.2%
 % each epoch takes around 90s on Intel dual core i7 CPU @ 2.40GHz 
-num_epochs = 200; 
+num_epochs = 1; 
 
 opts.alpha = learning_rate;
 opts.batchsize = batch_size;
