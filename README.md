@@ -9,7 +9,7 @@ The implementation of CNN uses the trimmed version of DeepLearnToolbox by [R. B.
 * Matlab
 
 ## CNN structure in the demo
-<img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/CNN.png", align='middle'>
+<img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/CNN.png", align="middle">
 
 ## Run the demo
 
@@ -21,7 +21,7 @@ Note that only 1 epoch will be performs. If you want to run more epochs, please 
 
 ## Results
 Run the demo for 200 epochs, the classification accuracy will be over 1%. The class-wise classification accuracy is shown as follow.
-<img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/class-wise_accuracy.jpg", width="400">
+<img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/class-wise_accuracy.jpg", width="400", align="middle">
 
 ### Training and testing accuracy
 <img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/train_accu.png", width="400">
