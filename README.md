@@ -30,9 +30,10 @@ Run the demo for 200 epochs, the classification accuracy will be over 1%. The cl
 ### Tracing error in Mean Square Error (MSE) 
 <img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/train_MSE.png", width="400">
 
-### The learned kernels for the first and second convolutional layers
+### The learned kernels of the first and second convolutional layers
 The first convolutional layer has 6 kernels, and the second has 6x12 kernels. All kernels are in the size of 5x5.
 <img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/kernels_Conv1.jpg", width="400">
 <img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/kernels_Conv2.jpg", width="400">
 
-###  
+### An example of feedforward on the trained CNN
+<img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/example_feedforward.jpg">
