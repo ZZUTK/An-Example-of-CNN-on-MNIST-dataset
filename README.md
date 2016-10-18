@@ -8,6 +8,9 @@ The implementation of CNN uses the trimmed version of DeepLearnToolbox by [R. B.
 ## Pre-requisite
 * Matlab
 
+## CNN in the demo
+<img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/CNN.png" width="200">
+
 ## Run demos
 
 ```
@@ -17,4 +20,6 @@ The implementation of CNN uses the trimmed version of DeepLearnToolbox by [R. B.
 Note that only 1 epoch will be performs. If you want to run more epochs, please modify the variable `num_epochs ` in the file [`demo_CNN_MNIST.m`](https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/demo_CNN_MNIST.m) (line 62).
 
 ## Results
+
+### 
 
