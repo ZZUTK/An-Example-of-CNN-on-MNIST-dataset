@@ -26,7 +26,8 @@ In the [MNIST](http://yann.lecun.com/exdb/mnist/) dataset, there are 50,000 digi
 Note that only 1 epoch will be performs. If you want to run more epochs, please modify the variable `num_epochs ` in the file [`demo_CNN_MNIST.m`](https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/demo_CNN_MNIST.m) (line 62).
 
 ## Results
-Run the demo for 200 epochs, the classification accuracy will be over 99%. The class-wise classification accuracy is shown as follow.
+Running the demo for 200 epochs, the classification accuracy is over 99%. The class-wise classification accuracy is shown as follow.
+
 <img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/class-wise_accuracy.jpg", width="400">
 
 
