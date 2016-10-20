@@ -44,7 +44,10 @@ Running the demo for 200 epochs, the classification accuracy is shown as follow.
 
 ### Training error in Mean Square Error (MSE) 
 The loss function used in this demo is 
+
 <img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/loss_func.png", width="200">
+
+where y and y_hat denote the true label and prediction, respectively.
 
 <img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/train_MSE.png", width="400">
 
