@@ -12,10 +12,10 @@ The implementation of CNN uses the trimmed version of DeepLearnToolbox by [R. B.
 * [CNN structure](#CNN structure)
 * [Run the demo](#Run)
 * [Results](#Results)
-  * [Class-wise training and testing accuracy](#Class-wise)
-  * [Training and testing accuracy vs. epoch](#accuracy)
+  * [Class-wise training/testing accuracy](#Class-wise)
+  * [Training/testing accuracy vs. epoch](#accuracy)
   * [Training error vs. epoch](#Error)
-  * [The learned kernels](#kernels)
+  * [Learned kernels](#kernels)
   * [An example of feedforward](#example)
 
 <a name="Requirements">
