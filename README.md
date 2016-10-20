@@ -86,4 +86,6 @@ The first convolutional layer has 6 kernels, and the second has 6x12 kernels. Al
 ## Use a wider or deeper CNN
 The classification accuracy will increase if using a wider or deeper CNN. The "wider" means increasing the number of channels in each convolutional (pooling) layer, and the "deeper" refers to increasing the number of convolutional (pooling) layers. 
 
-We consider the CNN structure used in the demo as the prototype, which has 6 and 12 channels in the first and second convolutional (pooling) layer, respectively. The wider CNN will take 12 and 24 channels in the first and second convolutional (pooling) layer, respectively. The deeper CNN has three convolutional (pooling) layers, and there are 6, 12, and 24 channels for each. The traing and testing accuracy, as well as traing MSE, are shown as follow.
+We consider the CNN structure used in the demo as the prototype, which has 6 and 12 channels in the first and second convolutional (pooling) layer, respectively. The wider CNN will take 12 and 24 channels in the first and second convolutional (pooling) layer, respectively. The deeper CNN has three convolutional (pooling) layers, and there are 6, 12, and 24 channels for each. The traing and testing accuracy are shown as follow.
+
+| T |
