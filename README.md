@@ -93,7 +93,7 @@ We consider the CNN structure used in the demo as the prototype, which has 6 and
 | **Wider** | 99.60% | 99.16% | 0.0052 |
 | **Deeper**| 99.69% | 99.28% | 0.0042 |
 
-| num_epochs=500 | Training accuracy | Testing accuracy |
+| num_epochs=500 | Training accuracy | Testing accuracy | Training MSE |
 | :---: | :---: | :---: | :---: |
 | **Wider** | 99.83% | 99.20% | 0.0022 |
 | **Deeper**| 99.84% | 99.37% | 0.0016 |
