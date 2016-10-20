@@ -88,4 +88,10 @@ The classification accuracy will increase if using a wider or deeper CNN. The "w
 
 We consider the CNN structure used in the demo as the prototype, which has 6 and 12 channels in the first and second convolutional (pooling) layer, respectively. The wider CNN will take 12 and 24 channels in the first and second convolutional (pooling) layer, respectively. The deeper CNN has three convolutional (pooling) layers, and there are 6, 12, and 24 channels for each. The traing and testing accuracy are shown as follow.
 
-| T |
+| num_epochs=200 | Training accuracy | Testing accuracy |
+| :---: | :---: | :---: |
+| **Wider** | 99.60% | 99.16% |
+| **Deeper**| 99.69% | 99.28% |
+
+
+
