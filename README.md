@@ -43,6 +43,11 @@ Running the demo for 200 epochs, the classification accuracy is shown as follow.
 <img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/test_accu.png", width="400">
 
 ### Training error in Mean Square Error (MSE) 
+The loss function used in this demo is 
+```tex
+\sum_{x=0}^n f(x)
+```
+
 <img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/train_MSE.png", width="400">
 
 ### The learned kernels of the first and second convolutional layers
