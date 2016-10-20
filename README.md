@@ -80,3 +80,6 @@ The first convolutional layer has 6 kernels, and the second has 6x12 kernels. Al
 <a name="example">
 ### An example of feedforward on the trained CNN
 <img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/example_feedforward.jpg">
+
+## Use a wider or deeper CNN
+
