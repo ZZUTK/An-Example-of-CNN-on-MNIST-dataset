@@ -17,6 +17,7 @@ The implementation of CNN uses the trimmed version of DeepLearnToolbox by [R. B.
   * [Training error vs. epoch](#Error)
   * [Learned kernels](#kernels)
   * [An example of feedforward](#example)
+* [Wider or deeper CNN](#wider-deeper)
 
 <a name="Requirements">
 ## Pre-requisite
@@ -81,6 +82,7 @@ The first convolutional layer has 6 kernels, and the second has 6x12 kernels. Al
 ### An example of feedforward on the trained CNN
 <img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/example_feedforward.jpg">
 
+<a name="wider-deeper">
 ## Use a wider or deeper CNN
 The classification accuracy will increase if using a wider or deeper CNN. The "wider" means increasing the number of channels in each convolutional (pooling) layer, and the "deeper" refers to increasing the number of convolutional (pooling) layers. 
 
