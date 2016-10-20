@@ -26,13 +26,11 @@ In the [MNIST](http://yann.lecun.com/exdb/mnist/) dataset, there are 50,000 digi
 Note that only 1 epoch will be performs. If you want to run more epochs, please modify the variable `num_epochs ` in the file [`demo_CNN_MNIST.m`](https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/demo_CNN_MNIST.m) (line 62).
 
 ## Results
-Running the demo for 200 and 500 epochs, repectively. The classification accuracy is shown as follow.
+Running the demo for 200 epochs, the classification accuracy is shown as follow.
 
 | num_epochs | Training accuracy | Testing accuracy |
 | --- | --- | --- |
-
-
-99.34%.
+| 200 | 99.34% | 99.02% |
 
 ### Class-wise training and testing accuracy
 <img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/class-wise_accu_train.png", width="400">
