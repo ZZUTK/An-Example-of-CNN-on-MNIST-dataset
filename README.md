@@ -7,6 +7,7 @@ The implementation of CNN uses the trimmed version of DeepLearnToolbox by [R. B.
 
 ## Contents
 * [Pre-requisite](#Requirements)
+  * [Some samples of digit images](#samples)
 * [MNIST dataset](#MNIST dataset)
 * [CNN structure](#CNN structure)
 * [Run the demo](#Run)
