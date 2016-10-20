@@ -75,7 +75,7 @@ where y and y_hat denote the true label and prediction, respectively.
 <a name="kernels">
 ### The learned kernels of the first and second convolutional layers
 The first convolutional layer has 6 kernels, and the second has 6x12 kernels. All kernels are in the size of 5x5.
-<img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/kernels_Conv1.jpg", width="400">
+<img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/kernels_Conv1.png", width="400">
 <img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/kernels_Conv2.png", width="400">
 
 <a name="example">
