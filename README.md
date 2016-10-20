@@ -29,7 +29,8 @@ Note that only 1 epoch will be performs. If you want to run more epochs, please 
 Running the demo for 200 and 500 epochs, repectively. The classification accuracy is shown as follow.
 
 | num_epochs | Training accuracy | Testing accuracy |
-| - | - | - |
+| --- | --- | --- |
+
 
 99.34%.
 
