@@ -41,7 +41,7 @@ Running the demo for 200 and 500 epochs, repectively. The classification accurac
 <img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/train_accu.png", width="400">
 <img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/test_accu.png", width="400">
 
-### Tracing error in Mean Square Error (MSE) 
+### Training error in Mean Square Error (MSE) 
 <img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/train_MSE.png", width="400">
 
 ### The learned kernels of the first and second convolutional layers
