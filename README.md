@@ -8,10 +8,15 @@ The implementation of CNN uses the trimmed version of DeepLearnToolbox by [R. B.
 ## Contents
 * [Pre-requisite](#Requirements)
 * [MNIST dataset](#MNIST dataset)
- * [Some samples of digit images](#samples)
+  * [Some samples of digit images](#samples)
 * [CNN structure](#CNN structure)
 * [Run the demo](#Run)
 * [Results](#Results)
+  * [Class-wise training and testing accuracy](#Class-wise)
+  * [Training and testing accuracy vs. epoch](#accuracy)
+  * [Training error vs. epoch](#Error)
+  * [The learned kernels](#kernels)
+  * [An example of feedforward](#example)
 
 <a name="Requirements">
 ## Pre-requisite
@@ -52,7 +57,7 @@ Running the demo for 200 epochs, the classification accuracy is shown as follow.
 <img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/class-wise_accu_test.png", width="400">
 
 <a name="accuracy">
-### Training and testing accuracy
+### Training and testing accuracy vs. epoch
 <img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/train_accu.png", width="400">
 <img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/test_accu.png", width="400">
 
