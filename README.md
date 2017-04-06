@@ -32,11 +32,13 @@ In the [MNIST](http://yann.lecun.com/exdb/mnist/) dataset, there are 50,000 digi
 <a name="samples">
 
 ### Some samples of digit images
+
 <img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/digits.png">
 
 <a name="CNN structure">
 
 ## CNN structure in the demo
+
 <img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/CNN.png">
 
 <a name="Run">
@@ -61,12 +63,14 @@ Running the demo for 200 epochs, the classification accuracy is shown as follow.
 <a name="Class-wise">
 
 ### Class-wise training and testing accuracy
+
 <img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/class-wise_accu_train.png", width="400">
 <img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/class-wise_accu_test.png", width="400">
 
 <a name="accuracy">
 
 ### Training and testing accuracy vs. epoch
+
 <img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/train_accu.png", width="400">
 <img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/test_accu.png", width="400">
 
@@ -85,12 +89,14 @@ where y and y_hat denote the true label and prediction, respectively.
 
 ### The learned kernels of the first and second convolutional layers
 The first convolutional layer has 6 kernels, and the second has 6x12 kernels. All kernels are in the size of 5x5.
+
 <img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/kernels_Conv1.png", width="400">
 <img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/kernels_Conv2.png", width="400">
 
 <a name="example">
 
 ### An example of feedforward on the trained CNN
+
 <img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/example_feedforward.jpg">
 
 <a name="wider-deeper">
