@@ -1,7 +1,7 @@
 # An Example of CNN on MNIST dataset
 
 Detailes of the CNN strucdure in the demo, as well as the mathematical derivation of 
-backpropagation can be found in ["Derivation of Backpropagation in Convolutional Neural Network (CNN)"](https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset/blob/master/doc/Derivation%20of%20Backpropagation%20in%20CNN.pdf), which is specifically written for this demo.  
+backpropagation can be found in ["Derivation of Backpropagation in Convolutional Neural Network (CNN)"](doc/Derivation of Backpropagation in CNN.pdf), which is specifically written for this demo.  
 
 The implementation of CNN uses the trimmed version of DeepLearnToolbox by [R. B. Palm](https://github.com/rasmusbergpalm/DeepLearnToolbox). 
 
