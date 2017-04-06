@@ -64,35 +64,35 @@ Running the demo for 200 epochs, the classification accuracy is shown as follow.
 
 ### Class-wise training and testing accuracy
 
-<img src="figs/class-wise_accu_train.png", width=400>
-<img src="figs/class-wise_accu_test.png", width="400">
+<img src="figs/class-wise_accu_train.png" width="400">
+<img src="figs/class-wise_accu_test.png" width="400">
 
 <a name="accuracy">
 
 ### Training and testing accuracy vs. epoch
 
-<img src="figs/train_accu.png", width="400">
-<img src="figs/test_accu.png", width="400">
+<img src="figs/train_accu.png" width="400">
+<img src="figs/test_accu.png" width="400">
 
 <a name="Error">
 
 ### Training error in Mean Square Error (MSE) 
 The loss function used in this demo is 
 
-<img src="figs/loss_func.png", width="200">
+<img src="figs/loss_func.png" width="200">
 
 where y and y_hat denote the true label and prediction, respectively.
 
-<img src="figs/train_MSE.png", width="400">
+<img src="figs/train_MSE.png" width="400">
 
 <a name="kernels">
 
 ### The learned kernels of the first and second convolutional layers
 The first convolutional layer has 6 kernels, and the second has 6x12 kernels. All kernels are in the size of 5x5.
 
-<img src="figs/kernels_Conv1.png", width="400">
+<img src="figs/kernels_Conv1.png" width="400">
 
-<img src="figs/kernels_Conv2.png", width="400">
+<img src="figs/kernels_Conv2.png" width="400">
 
 <a name="example">
 
