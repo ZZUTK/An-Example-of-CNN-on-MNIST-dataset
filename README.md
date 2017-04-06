@@ -22,7 +22,7 @@ The implementation of CNN uses the trimmed version of DeepLearnToolbox by [R. B.
 <a name="Requirements">
 
 ## Pre-requisite
-* Matlab
+* Matlab (R2015a)
 
 <a name="MNIST dataset">
 
