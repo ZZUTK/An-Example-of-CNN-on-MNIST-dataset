@@ -64,7 +64,7 @@ Running the demo for 200 epochs, the classification accuracy is shown as follow.
 
 ### Class-wise training and testing accuracy
 
-<img src="figs/class-wise_accu_train.png", width="400">
+<img src="figs/class-wise_accu_train.png", width=400>
 <img src="figs/class-wise_accu_test.png", width="400">
 
 <a name="accuracy">
