@@ -7,9 +7,9 @@ The implementation of CNN uses the trimmed version of DeepLearnToolbox by [R. B.
 
 ## Contents
 * [Pre-requisite](#Requirements)
-* [MNIST dataset](#MNIST dataset)
+* [MNIST dataset](#MNISTdataset)
   * [Some samples of digit images](#samples)
-* [CNN structure](#CNN structure)
+* [CNN structure](#CNNstructure)
 * [Run the demo](#Run)
 * [Results](#Results)
   * [Class-wise training/testing accuracy](#Class-wise)
@@ -24,7 +24,7 @@ The implementation of CNN uses the trimmed version of DeepLearnToolbox by [R. B.
 ## Pre-requisite
 * Matlab (R2015a)
 
-<a name="MNIST dataset">
+<a name="MNISTdataset">
 
 ## MNIST dataset
 In the [MNIST](http://yann.lecun.com/exdb/mnist/) dataset, there are 50,000 digit images for training and 10,000 for testing. The image size is 28x28, and the digits are from 0 to 9 (10 categories). 
@@ -35,7 +35,7 @@ In the [MNIST](http://yann.lecun.com/exdb/mnist/) dataset, there are 50,000 digi
 
 <img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/digits.png">
 
-<a name="CNN structure">
+<a name="CNNstructure">
 
 ## CNN structure in the demo
 
