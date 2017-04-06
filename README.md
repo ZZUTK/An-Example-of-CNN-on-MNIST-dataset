@@ -91,13 +91,16 @@ where y and y_hat denote the true label and prediction, respectively.
 The first convolutional layer has 6 kernels, and the second has 6x12 kernels. All kernels are in the size of 5x5.
 
 <img src="figs/kernels_Conv1.png", width="400">
+
 <img src="figs/kernels_Conv2.png", width="400">
 
 <a name="example">
 
 ### An example of feedforward on the trained CNN
 
+<p align="center">
 <img src="figs/example_feedforward.jpg">
+</p>
 
 <a name="wider-deeper">
 
