@@ -33,13 +33,13 @@ In the [MNIST](http://yann.lecun.com/exdb/mnist/) dataset, there are 50,000 digi
 
 ### Some samples of digit images
 
-<img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/digits.png">
+<img src="figs/digits.png">
 
 <a name="CNNstructure">
 
 ## CNN structure in the demo
 
-<img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/CNN.png">
+<img src="figs/CNN.png">
 
 <a name="Run">
 
@@ -64,40 +64,40 @@ Running the demo for 200 epochs, the classification accuracy is shown as follow.
 
 ### Class-wise training and testing accuracy
 
-<img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/class-wise_accu_train.png", width="400">
-<img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/class-wise_accu_test.png", width="400">
+<img src="figs/class-wise_accu_train.png", width="400">
+<img src="figs/class-wise_accu_test.png", width="400">
 
 <a name="accuracy">
 
 ### Training and testing accuracy vs. epoch
 
-<img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/train_accu.png", width="400">
-<img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/test_accu.png", width="400">
+<img src="figs/train_accu.png", width="400">
+<img src="figs/test_accu.png", width="400">
 
 <a name="Error">
 
 ### Training error in Mean Square Error (MSE) 
 The loss function used in this demo is 
 
-<img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/loss_func.png", width="200">
+<img src="figs/loss_func.png", width="200">
 
 where y and y_hat denote the true label and prediction, respectively.
 
-<img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/train_MSE.png", width="400">
+<img src="figs/train_MSE.png", width="400">
 
 <a name="kernels">
 
 ### The learned kernels of the first and second convolutional layers
 The first convolutional layer has 6 kernels, and the second has 6x12 kernels. All kernels are in the size of 5x5.
 
-<img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/kernels_Conv1.png", width="400">
-<img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/kernels_Conv2.png", width="400">
+<img src="figs/kernels_Conv1.png", width="400">
+<img src="figs/kernels_Conv2.png", width="400">
 
 <a name="example">
 
 ### An example of feedforward on the trained CNN
 
-<img src="https://github.com/ZZUTK/An-Example-of-CNN-on-MNIST-dataset-/blob/master/figs/example_feedforward.jpg">
+<img src="figs/example_feedforward.jpg">
 
 <a name="wider-deeper">
 
